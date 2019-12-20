@@ -10,6 +10,7 @@ ASR model:
   
 Hardware requirements:
   - STM32F4-Discovery board
+  - ESP8266 (for WIFI connection) 
   - microphone sensor
   - other IOT devices(optional)
 
