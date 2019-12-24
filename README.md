@@ -1,9 +1,6 @@
-# Embedded_SmartHome101
-This project is ASR-IOT project from scratch 
-
-STM32F4-Discovery Project: SmartHome101
-- input: audio
-- output: execute the input command
+This project is ASR-IOT project: smart home from scratch
+input: audio
+output: executes the input command
 
 ### Main Challenges:
 due to the limitation of the hardware(CPU and memory) and compatibilities, we have to deal with challenges to optimize the process.
@@ -15,7 +12,7 @@ due to the limitation of the hardware(CPU and memory) and compatibilities, we ha
 
 ASR model:
   - Google Cloud Speech-to-Text
-  - (optional) create your own model using Kaldi toolkit
+  - (optional) builds your own model using Kaldi toolkit
   
 Hardware requirements:
   - STM32F4-Discovery board
