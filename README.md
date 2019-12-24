@@ -1,6 +1,8 @@
+# SmartHome101
+
 This project is ASR-IOT project: smart home from scratch
-input: audio
-output: executes the input command
+- input: audio
+- output: executes the input command
 
 ### Main Challenges:
 due to the limitation of the hardware(CPU and memory) and compatibilities, we have to deal with challenges to optimize the process.
