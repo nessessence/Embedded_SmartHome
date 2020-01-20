@@ -15,10 +15,10 @@ due to the limitation of the hardware(CPU and memory) and compatibilities, we ha
 ASR model:
   - Google Cloud Speech-to-Text
   - (optional) builds your own model using Kaldi toolkit
-  
+
 Hardware requirements:
   - STM32F4-Discovery board
-  - ESP8266 (for WIFI connection) 
+  - ESP8266 (for WIFI connection)
   - microphone sensor
   - (optional)other IOT devices
 
@@ -26,4 +26,5 @@ in progress:
   - speaker verification
   - natural language understanding
 
-
+## License & copyright
+License under the [MIT License](LICENSE.md)
